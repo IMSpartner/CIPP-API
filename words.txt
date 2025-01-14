@@ -8,6 +8,7 @@ Cow
 Ablaze
 Able
 Abnormal
+Bas
 Abrasion
 Abrasive
 Abreast
